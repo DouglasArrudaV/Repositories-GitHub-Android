@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": 503555517,
+      "name": "android-App-BusinessCard",
+      "owner": {
+        "login": "DouglasArrudaV",
+        "avatar_url": "https://avatars.githubusercontent.com/u/95550921?v=4"
+      },
+      "stargazers_count": 0,
+      "language": "Kotlin",
+      "html_url": "https://github.com/DouglasArrudaV/App-BusinessCard",
+      "description": "description"
+    },
+    {
+      "id": 498089772,
+      "name": "android-Jokes_app",
+      "owner": {
+        "login": "DouglasArrudaV",
+        "avatar_url": "https://avatars.githubusercontent.com/u/95550921?v=4"
+      },
+      "html_url": "https://github.com/DouglasArrudaV/Jokes_app",
+      "description": "description",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 501746058,
+      "name": "android-Soccer_News",
+      "owner": {
+        "login": "DouglasArrudaV",
+        "avatar_url": "https://avatars.githubusercontent.com/u/95550921?v=4"
+      },
+      "html_url": "https://github.com/DouglasArrudaV/Soccer_News",
+      "description": "App Android Native to show football team news",
+      "stargazers_count": 0,
+      "language": "Java"
+    }
+  ]
+}
